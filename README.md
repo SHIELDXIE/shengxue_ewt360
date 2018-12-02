@@ -4,7 +4,9 @@
 
 - 此仓库为制作升E网通自动挂机脚本代码托管
 - 基于Auto JS制作
-  Download http://www.coolapk.com/apk/org.autojs.autojs（酷安）
+  
+  
+Download http://www.coolapk.com/apk/org.autojs.autojs
 
 
 
