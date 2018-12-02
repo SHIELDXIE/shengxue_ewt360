@@ -8,6 +8,8 @@
   
 Download http://www.coolapk.com/apk/org.autojs.autojs
 
+脚本发布：https://github.com/SHIELDXIE/shengxue_ewt360/releases
+
 
 
 
